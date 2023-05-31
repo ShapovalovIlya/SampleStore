@@ -1,0 +1,545 @@
+{
+  "identifier" : "C9E61196",
+  "nonRenewingSubscriptions" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "A7A081EF",
+      "localizations" : [
+        {
+          "description" : "Monthly subscription",
+          "displayName" : "Atr-therapy bundle",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Подписка на месяц",
+          "displayName" : "Набор \"Арт-терапия\"",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.subscription_month_art_therapy",
+      "referenceName" : "Atr-therapy bundle",
+      "type" : "NonRenewingSubscription"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "77C01F46",
+      "localizations" : [
+        {
+          "description" : "Monthly subscription",
+          "displayName" : "Meditations bundle",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Подписка на сессии медитаций",
+          "displayName" : "набор \"Медитации\"",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.subscription_month_meditations",
+      "referenceName" : "Meditation bundle",
+      "type" : "NonRenewingSubscription"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "0AB13164",
+      "localizations" : [
+        {
+          "description" : "Monthly subscription",
+          "displayName" : "Money thinking bundle",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Подписка на уроки денежного мышления",
+          "displayName" : "Набор \"Денежное мышление\"",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.subscription_month_money_thinking",
+      "referenceName" : "Money thinking bundle",
+      "type" : "NonRenewingSubscription"
+    }
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "D3D48B8E",
+      "localizations" : [
+        {
+          "description" : "Money meditation",
+          "displayName" : "Abundance meditation",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Денежная медитация",
+          "displayName" : "Медитация изобилия",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.meditation_abundance",
+      "referenceName" : "Meditation abundance",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "B8A89F01",
+      "localizations" : [
+        {
+          "description" : "Meditation \"manifestation of intention\"",
+          "displayName" : "Manifestation of intention",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Медитация «манифестация намерения»",
+          "displayName" : "Манифестация намерения",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.meditation_manifestation_of_intention",
+      "referenceName" : "Meditation \"manifestation of intention\"",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "4EAEE6BE",
+      "localizations" : [
+        {
+          "description" : "Attracting relationships into your life",
+          "displayName" : "Love meditation ",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Привлечение отношений в свою жизнь",
+          "displayName" : "Медитация любви",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.meditation_love",
+      "referenceName" : "Love meditation ",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "AEBF02FA",
+      "localizations" : [
+        {
+          "description" : "\"Elexir of Life\"",
+          "displayName" : "Healing Meditation ",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Элексир жизни",
+          "displayName" : "Медитация исцеления",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.meditation_elixir_of_life",
+      "referenceName" : "Healing Meditation",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "F43D6EC4",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Health Algorithm",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Алгоритм здоровья",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.art_therapy_health",
+      "referenceName" : "Health Algorithm",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "5509792D",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Calm and Relaxation",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Спокойствие и расслабление",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.art_therapy_tranquility_and_relaxation",
+      "referenceName" : "Algorithm \"Calm and Relaxation\"",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "EA10AA5A",
+      "localizations" : [
+        {
+          "description" : "Love and relationships",
+          "displayName" : "Opening the heart center",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Любовь и отношения",
+          "displayName" : "Раскрытие сердечного центра",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.art_therapy_open_heart_center",
+      "referenceName" : "Algorithm for opening the heart center",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "C23B52FA",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Abundance and prosperity",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Алгоритм изобилия и достатка",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.art_therapy_abundance_and_prosperity",
+      "referenceName" : "Algorithm of abundance and prosperity",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "E8A70727",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Wish Fulfillment Algorithm",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Алгоритм исполнения желаний",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.art_therapy_fulfillment_of_dreams",
+      "referenceName" : "Wish Fulfillment Algorithm",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "33132E02",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Algorithm \"Self-value\"",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Алгоритм «Самоценность»",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.art_therapy_self_worth",
+      "referenceName" : "Algorithm \"Self-value\"",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "BF8222F2",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Algorithm \"I am worthy",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Алгоритм «Я достоин/достойна»",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.art_therapy_i_am_worthy",
+      "referenceName" : "Algorithm \"I am worthy\"",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A64474FD",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Beliefs and attitudes",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Убеждения и установки",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.money_thinking_beliefs_and_attitudes",
+      "referenceName" : "Working with beliefs and attitudes",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "5720EEF8",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Money energy and expansion",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Денежная энергия и расширение",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.money_thinking_monetary_energy_and_expansion",
+      "referenceName" : "Lesson about money energy and expansion",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "59F30A01",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Habits of poor and rich",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Привычки бедных и богатых",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.money_thinking_habits_of_poor_and_rich",
+      "referenceName" : "A lesson about the habits of poor and rich people",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "65BFC316",
+      "localizations" : [
+        {
+          "description" : "Practices - habits that change money programs",
+          "displayName" : "Strength and abundance of kind",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Практики-привычки, меняющие денежные програмы",
+          "displayName" : "Сила и изобилие рода",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.money_thinking_strength_and_abundance_of_family",
+      "referenceName" : "Strength and abundance of kind",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "5CCEA26D",
+      "localizations" : [
+        {
+          "description" : "About intuition and the law of attraction",
+          "displayName" : "Intuition and attraсtion",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Урок про интуицию и закон притяжения",
+          "displayName" : "Интуиция и закон притяжения",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.money_thinking_intuition_and_law_of_attraction",
+      "referenceName" : "Lesson about intuition and the law of attraction",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "2A46CE08",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Laws of money energy",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Законы денежной энергии",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.money_thinking_laws_of_money_energy",
+      "referenceName" : "Laws of money energy",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "FFF7DC6C",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Set of solar energy",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Набор солнечной энергии",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.meditation_set_solar_energy",
+      "referenceName" : "Set of solar energy",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "D33AF75E",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Set of energy \"River of Life\"",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Набор энергии «Река жизни»",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.meditation_river_of_life",
+      "referenceName" : "Set of energy \"River of Life\"",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "F92C1067",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Morning gratitude",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Утренняя благодарность",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.meditation_morning_gratitude",
+      "referenceName" : "Утренняя благодарность",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "38EC15D4",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "Intro",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Intro",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.ensoul.meditation_intro",
+      "referenceName" : "Meditation intro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_billingIssuesEnabled" : false,
+    "_compatibilityTimeRate" : {
+      "3" : 6
+    },
+    "_failTransactionsEnabled" : false,
+    "_storeKitError" : 0,
+    "_timeRate" : 15
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "99C47E40",
+      "localizations" : [
+
+      ],
+      "name" : "Pro-user",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "F23A059F",
+          "introductoryOffer" : {
+            "displayPrice" : "0.99",
+            "internalID" : "A15127CC",
+            "paymentMode" : "none",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "Auto renewing subscription",
+              "displayName" : "Unlock all content",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.ensoul.subscription_pro",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pro-subscription",
+          "subscriptionGroupID" : "99C47E40",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "subscriptionOffersKeyPair" : {
+    "id" : "B2A0E9AA",
+    "privateKey" : "MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQgWIZqFKQjC+RM6jIZeE8sphyQ9cp5Mvjc62qj3YOV+cagCgYIKoZIzj0DAQehRANCAARZvKSXhiecFZUEabDz/iNSl0C272ZqPdbI9O+QswAoT2XoKuV7omrT0AYUxtZx8LmzfXZ3kxWb2dou/4dIAExh"
+  },
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
